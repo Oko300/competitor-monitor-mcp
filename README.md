@@ -20,7 +20,7 @@ Monitor competitor websites for **price drops, new products, promotions, and con
 
 ```bash
 # 1. Clone
-git clone https://github.com/YOUR_USERNAME/competitor-monitor-mcp
+git clone https://github.com/Oko300/competitor-monitor-mcp
 cd competitor-monitor-mcp
 
 # 2. Install
