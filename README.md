@@ -1,5 +1,7 @@
 # 🔍 Competitor Website Change Monitor — MCP Server
 
+[![MCPize](https://mcpize.com/badge/@300joh/competitor-monitor)](https://mcpize.com/mcp/competitor-monitor)
+
 Monitor competitor websites for **price drops, new products, promotions, and content changes** — directly from Claude, Cursor, or any MCP-compatible AI client.
 
 ---
@@ -49,6 +51,15 @@ pytest tests/ -v
 }
 ```
 
+## Connect via MCPize
+
+Use this MCP server instantly with no local installation:
+
+```bash
+npx -y mcpize connect @300joh/competitor-monitor --client claude
+```
+
+Or connect at: **https://mcpize.com/mcp/competitor-monitor**
 ---
 
 ## MCP Tools Available
